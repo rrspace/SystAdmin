@@ -1,1 +1,1 @@
-# SystAdmin
+This repository  introduces Azure infrastructure deployment using ARM templates & Azure CLI. It covers creating and deploying resources, building hub-and-spoke virtual networks with secure peering, and managing Azure compute resources like virtual machines. Learners gain hands-on skills in cloud deployment, networking, and resource management in Azure.
